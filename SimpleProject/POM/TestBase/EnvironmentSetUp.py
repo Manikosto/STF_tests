@@ -19,7 +19,7 @@ class EnvironmentSetup(unittest.TestCase):
     #setUP contains the browser setup attributes
     @classmethod
     def setUp(cls):
-        cls.driver = webdriver.Chrome("C:/Users/akoledachkin/PycharmProjects/SimpleProject/POM/Drivers/chromedriver.exe")
+        cls.driver = webdriver.Chrome("../Drivers/chromedriver.exe")
         cls.driver.implicitly_wait(30)
         cls.driver.maximize_window()
         cls.wait = WebDriverWait(cls.driver, 30)

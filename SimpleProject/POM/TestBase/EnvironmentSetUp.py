@@ -21,7 +21,7 @@ class EnvironmentSetup(unittest.TestCase):
     def setUp(cls):
         cls.driver = webdriver.Chrome("../Drivers/chromedriver.exe")
         cls.driver.implicitly_wait(30)
-        cls.driver.maximize_window()
+        cls.driver.maximize_window() 
         cls.wait = WebDriverWait(cls.driver, 30)
 
 

@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd07b112-320a-4ff6-a4dc-fdd6611a0bc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Pages/HistoryRecording.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Scripts/Tests_HistoryRecording.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Pages/Account.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Pages/Account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Pages/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Pages/SignUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Pages/SignUp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Pages/Yandex.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Pages/Yandex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0356c9c3-3f1f-4fca-9721-f5743f87a900-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/054d0664-e90a-4485-b16e-534812b98c73-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/063c48b6-f0c6-4c58-8ea0-1ae94b5dc698-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/066b9ef9-6c6e-46d4-8675-0ea1464ec141-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/089379f5-2565-4dde-a67f-2b0fb787dc95-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0af630b8-e125-4b88-9fee-672863553e09-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0ba9a037-a884-427e-bb0a-fcb73d9d2476-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0c3c6e82-a7bc-408a-bb80-0813460a2a20-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0d6440d0-77d4-4e71-90b9-d7e744fd2632-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0e81c702-2d02-42a2-85e0-c2d67b43ac19-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/0ea5a5a1-cd94-453a-b083-8f5c0a186fac-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/106677cf-e92d-4d44-bf32-9c0bef2ff451-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/114405d6-bd34-46d0-9503-d9f0568cfe72-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/11f966e6-74c1-407d-8d12-44073fc63ea8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/12b16ee6-3917-4a01-98a2-bbfbc6a990e3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1321fbe2-a69e-404a-914c-1484bc54516c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/13df4255-e6b3-472d-9f86-d6f5817d205b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1638cd44-d5f1-4bf1-a15f-d3dad1c9fd3d-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/16826006-8aae-4d12-b842-c3ab079eafa9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/17ae6c5d-458d-43df-8ca4-3eb5408ed294-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/18a2c714-ed6c-4608-8ed6-54ca4c68049e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/18a93195-0a10-4582-8c70-6bda335fd1de-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/19c4729c-f5b8-41ca-8838-e7dcaaecfa41-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1c3ca687-8f8f-4043-8db2-ea0bdebe4246-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1eb04aef-b50b-4bba-8c08-662e3fc793d9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1effdae7-eb7e-4e8b-8023-a0eba2e6bafd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1f8e6141-e6b1-469e-b1ba-0c3e85728cff-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/1fc44901-5a2f-466a-961f-aabc45641224-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/201ce595-7a13-4f29-bd5a-d3f4db81abfe-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/21a8ff2d-81d1-4f1d-bb3e-79890500e63a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/21f2efe1-3f6e-4727-8e34-f5aadce09149-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/22dd0c8e-fe3b-44b4-982b-91c05bf20bd3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/27196ec2-331d-4b81-9386-efc99b8ad80b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/272f4b11-5422-4f6b-8e0b-85429be673b1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/285ee990-6d1f-402c-958c-d064517c3144-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2872d270-91fb-4dbf-aaca-8ad0e147efa7-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2a752878-f7f7-497a-9e13-dd966f8bac5f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2c30c292-d32d-4d5e-b3eb-a472bd275d46-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2c43a4b6-1afa-482e-bc7a-e71e4085672f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2e7ddab4-61c3-4a8c-9a6b-4f00c1cc3be6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2eb14146-da14-47ae-b83f-838cd8a38fd8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2f6cbc62-62d0-4186-9eb0-f7df39a61373-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/2fb7c63c-8d68-46c8-accf-4ae07c7d82fd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/31adff77-5df8-4f09-ac09-11abc28e35d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/322f57d8-528a-40fc-bf81-53cb5b044cf5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/34a84a34-4559-4652-82b8-3db9374f2e93-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/353c153d-c70e-49a7-ac22-5097f0b0d073-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/35a8dd12-2fa9-4177-9872-d242f3d3a4bf-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/37665f48-3445-467a-a20b-e6475cf48cb7-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3a2f0fa6-9db4-4cbe-bb61-9d9f24691d3d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3be12975-4fed-4dd2-8773-05357d8096da-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3bf5c296-fead-4b91-b725-b06065315b5c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3c1f0b12-6511-4c55-8b8e-039f67eedbf7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3c3fca30-f5b3-407d-b5c0-7a57e57e7cb5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3cadc69c-4588-41a8-a092-278fe7c04953-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3d395454-3b12-4d5a-a12e-9da5673e83b5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/3d4527ce-f34f-4da1-9ad0-1e3c2e5ef860-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/413c3034-c0e7-4ac1-9b20-006cad22ef1e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/42e3eb96-5faa-4a73-bcdd-72db3c598e2c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/4602fb83-cb61-4f8f-9096-12128b1ca550-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/475e5481-2caa-4c0a-87b6-9ff84167319e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/4f7e53e2-dbe4-469a-9084-48135a3a5419-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/4f9b9d1f-28a9-41e1-9461-dfa8bb85918a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/51ea2b4e-b3e3-426b-b28d-5950688528dc-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/523bf48d-1754-47a1-ada7-edfe6484abad-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/52a1c3d8-f657-42d7-befa-91670fa47291-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/52a1fe0f-de07-4fc1-a2c3-2c1a7f985d76-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/530641ed-63d1-45da-9bf2-93d7eacaa8bb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/53c083eb-3d14-4c67-b823-2487084c2eab-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/548d6c14-27be-4567-914c-faa69630872a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/568def45-f35b-457b-b17b-c6ed1e369755-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/56da5cb8-388d-487f-8606-e65384022452-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5c1138ac-fa65-4dd1-bbd0-ebb110b54c9a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5c12154a-a0b2-4c2f-b2d8-015edf4a5aed-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5c469f5e-0a86-4de6-9ead-72b24e553b20-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5c565289-91a1-4d58-9827-d7aeec6871ba-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5ca6775b-e166-4ed0-9bab-9fd8f49afab9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5d649880-1318-4df7-88d2-31a58a28820d-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/5f485f37-b9f3-4bb3-9d9f-f19358740159-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/61513deb-f390-41c9-8c35-8b85d1487ed1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/61992196-c494-4afd-8414-cb2924587328-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/621325d5-5328-4a2c-b3c5-3f5f513997c2-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/644d33dd-1c96-4f12-960a-4800b067e42d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/6633d013-6786-412d-bae1-334214d3d0cb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/677b4bca-5432-4072-9a42-27763dd51d88-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/68521a06-1b12-4568-bc7b-826d501a9da4-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/6afdac01-aeee-441d-8a83-9c20e1b5230e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/6e78bfe8-b4c7-4912-aa9a-cd74331aee35-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/70d85b17-8426-4d6b-ba2a-02dda486d84f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/72fc699b-c9ca-4c8a-8c5d-4e52494fc5f0-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7316daa4-363a-4367-b31a-10b74920d2dc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/77929d9e-d0e4-4fed-8dbe-10608ff064fe-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7919034b-a383-4a41-8f68-02882b4343ac-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7b2b3973-2d5c-4fc7-9bd0-cf0695f3265e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7ca1ad87-0da6-4945-8b61-28396ab056aa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7dde9d7d-db0c-4993-a564-16e247afae6b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7e21953c-e37e-4bce-afa3-377d6e2324c2-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/7e417b07-7583-4f37-b872-5af34a2d449c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8109b7f5-6a20-4e87-afe7-97a379ff74a5-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/811883e0-1bb0-4f8a-8d69-a0179a2a7024-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/81451b99-3ac8-41af-92e8-67fe5eeb8bab-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/839c2034-985d-4ea6-bb5d-426f7d37fc73-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/84666fe4-5b85-4281-a670-274c357b070b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8487719a-b9da-4ff1-b74f-fd4b48a1ec66-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8703aaee-4bff-4756-a285-336dee93cfb2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/87cf2839-0b9b-40fc-a692-8c29ba7e9131-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8819688a-722e-4a08-a2d9-77e47e66d0bd-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/88aba7e6-760d-4b5a-8720-d5c0a49f05fa-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/89fa10a8-368b-4dac-8383-069d5c248d8e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8c7335d6-2e6f-43a5-806d-87f758434420-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8dac909b-8265-4cf0-8ded-bd1be23fae5a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8e873616-6622-4d12-8cb6-6be7da1959df-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8ea08384-5fc8-4d3e-8fe3-9bd53ff9b30e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8ecadf1b-a68d-498f-a76c-7280eda6081c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8f824c80-d773-4490-9bf1-666b730e157b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/8fb19331-1a7c-4ecb-a327-20fc9e453ee5-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/90c941fd-f921-43c3-b880-1127d45ed165-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/91ccdf0d-4af0-475e-add4-d0d7bf3ba315-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/93a69557-87ad-4b26-8cba-c61f35dd6e26-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/93ecc40b-2dae-45c8-9f62-887b36c6db01-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/94eba309-1559-474d-ab5d-fd18c0a3e5b4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/951957fd-d81e-40eb-bebd-ece8faee7c4a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/96944e1f-e1d8-4bee-aa8a-9769b318c844-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/98b03e9b-cbb7-4f36-aca3-925cb62c531f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/9b3350cb-5229-4fd4-860e-83745ae3c04c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/9dfb97d2-e7bd-4058-b57f-b2b79e9c29b6-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/9e45df3a-9121-460a-9fcd-9fde482eaa5c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/9f8b3930-0347-4f40-ac93-e855f44e9dff-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/9fd02653-8732-4b93-9850-ac548240f897-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a076e393-4f72-4892-bf05-2e70855849db-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a09e87bb-efd5-4257-8f08-66bb2f60d422-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a1f319df-411a-4ffa-8ee3-e8305a251803-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a2d7ec92-1b19-460e-99fd-52d5961a3fd3-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a3fcb193-e95e-4780-810e-e3c39e53074e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a4754255-a4cb-4e73-a87f-6b9b929e9c27-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a5877238-1a27-4972-b3d3-6a4c4e4ef63a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a701d7f9-702a-4eed-a12f-61f5f50b5e25-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a7c61603-6ca3-4deb-b9a4-888b31660d70-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/a9f0b580-3ce0-4541-b1b9-49d2612578f5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/ab64ee7b-66e0-4a01-8ab3-a1d425a2cc78-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/acb496c6-77ba-4710-9c9a-01a3426b3134-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/ae226d41-e307-440a-b266-f0deb6a59297-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/af4a4419-4b44-4ac3-a01a-4746226beb8f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b04c6109-7115-44d6-8f1b-745ee8bdb18e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b0f6795e-0fa4-4760-bb82-fb5c10d3faca-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b1b76260-a953-4e75-9f71-5a06b0ea2c9a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b4b0536c-0146-4ec3-a566-64bc5fb38fc5-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b52c97cd-fbb7-49ce-9474-ee8ea3ab6598-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b57962f3-73c1-48f4-8a6b-e4bbbbb1db41-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b594cebd-e57c-4a18-afa5-2eab7a00f8a2-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b5bd995a-ca4c-4ce5-afe8-d3653e9ef18a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b6e38d9c-b894-4c82-a160-23c60ae273bf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b8cd3179-1aaf-4235-a571-eee0ea6387b3-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/b939d69c-b0a3-420d-b1d0-bed877a46571-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/ba9d56c8-0a86-4c28-b8d0-c01cdc129270-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/bc87a421-3c0d-4030-8c8c-fcfad25b27a1-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/c23af1e3-d111-4b1b-9e02-d56970157943-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/c3620997-d82b-4da6-9974-df96f4f2bb28-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/c3939593-c947-441e-8406-eddfd2d3acf4-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/c3a5eb55-dd6e-4779-8762-cbc22d542f38-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/c90a4548-53d4-40d9-82f0-95f4476b0a58-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/c9288f06-d1f2-4f31-a9d5-dafa917ca40b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/d38fcb2b-9c90-4166-bfd2-951522447ced-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/d53fb546-7be4-45ec-a0e2-b4d51de46664-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/d630fc17-c44b-4714-9c6e-48c242bb0de5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/d6350dc0-2883-40cd-9760-70728d7ab7a7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/d8a86c66-8d7e-4026-99bd-3022b5769bbf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/dbf0b8bd-855f-4536-9d9c-3f7aee0c2874-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/dc23daa8-9f4a-4b1c-a25c-df6488cc8c8d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/de85db4b-7192-4414-92c5-1e5775214b02-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/de9772e8-955c-4471-bb26-abf1cc5de0b0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/debba12d-8811-4476-9fd8-6953f533693e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/df2d7873-388a-41a9-95be-f2d6e18773d6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/df96b714-f64f-4d07-815f-1f9078637581-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e036cae3-07fb-477a-9f8d-1f17a7ab359d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e2106363-a1b5-4880-a89f-297a9b5479d8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e270867b-9977-454c-9ae0-5dd8dccd4969-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e3c85f40-d7c3-4c1c-9182-2bab4de1ee3b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e3df7f82-22c4-4e22-97ad-178566d84c15-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e4eedae1-f27a-4c99-8d3e-b3ed0bc8f1ac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e58fdd38-b9c9-41a0-9821-cee0c28ef688-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e716b864-a4d7-4d04-be36-4bf6bcf10234-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e86685b2-e669-4b52-9834-258632303e09-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/e910cad9-8a8c-4668-953a-7b913e63f877-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/eb199ea8-0de9-4d03-915f-107bf5045094-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/eb4f64c8-82f6-4931-a988-bf1e2c09a5c4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/eb560ea3-3e44-4d2c-94a5-33c3578e5af9-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/ec6d2df9-2a35-4e0e-80b5-08a30fa95ccf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/f0f6fe7a-50d2-475d-a49a-b61f739020af-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/f3f6a67f-e27f-4fed-8a66-8a6fbbabf356-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/f6c4dd70-44b6-4591-bcb2-6d0bbe6d08a7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/f8829f55-36ed-4bb3-91d8-88e9728c7936-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/f8fb813a-45a4-4c9c-a431-f292dad81751-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/f9d5a529-5a54-4ed0-82ee-fdced199da98-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/fa546608-3f4a-4fef-a3eb-2528845e40d7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/fb220c3d-832f-4371-9533-d9a5bf8d5c0f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/fcf39c8e-82a8-4976-8e2e-a68ace5e3746-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/fd592373-a076-4eec-8fef-44df6d878060-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/fe5fd5f9-feff-4919-98e2-b9dfca7f7e1f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/ffa788fe-106a-476d-88ad-802c6c1e6e5c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Report/fff9737e-6a23-4273-9ade-106d10a81c4f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Scripts/TestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Scripts/TestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Scripts/Tests_AccountPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Scripts/Tests_AccountPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Scripts/Tests_ContactUs.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Scripts/Tests_ContactUs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Scripts/Tests_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Scripts/Tests_HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Scripts/Tests_LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Scripts/Tests_LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/Scripts/Tests_SignUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/Scripts/Tests_SignUp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/TestBase/EnvironmentSetUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/TestBase/EnvironmentSetUp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/TestBase/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/TestBase/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POM/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/POM/locators.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_LoginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="59" column="57" lean-forward="true" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+              <folding>
+                <element signature="e#35#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/Pages/HistoryRecording.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_HistoryRecording.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+              <folding>
+                <element signature="e#35#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_AccountPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+              <folding>
+                <element signature="e#35#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/Pages/LoginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="78" lean-forward="true" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
+              <folding>
+                <element signature="e#35#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/TestBase/Functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1565940108903" expanded="true" signature="1146:1392" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/TestBase/Links.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POM/locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="170" column="62" selection-start-line="170" selection-start-column="62" selection-end-line="170" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dial</find>
+      <find>above</find>
+      <find>value</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scripts/script_HomePage.py" />
+        <option value="$PROJECT_DIR$/TestBase/EnvironmentSetUp.py" />
+        <option value="$PROJECT_DIR$/locators.py" />
+        <option value="$PROJECT_DIR$/Pages/ContactUs.py" />
+        <option value="$PROJECT_DIR$/Pages/__init__.py" />
+        <option value="$PROJECT_DIR$/Scripts/___init__.py" />
+        <option value="$PROJECT_DIR$/Scripts/script_ContactUs.py" />
+        <option value="$PROJECT_DIR$/Pages/__ init __.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/script_LoginPage.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/script_ContactUs.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Functions.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/script_HomePage.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Functions.txt" />
+        <option value="$PROJECT_DIR$/POM/Scripts/scr.js" />
+        <option value="$PROJECT_DIR$/POM/Scripts/scr.txt" />
+        <option value="$PROJECT_DIR$/POM/example.py" />
+        <option value="$PROJECT_DIR$/POM/player.py" />
+        <option value="$PROJECT_DIR$/POM/WRONG.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/HomePage.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/ContactUs.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/Email.py" />
+        <option value="$USER_HOME$/Desktop/Python POM/Test/TestSuit/TestRunner.py" />
+        <option value="$PROJECT_DIR$/POM/TestRunner.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/LoginPage.py" />
+        <option value="$PROJECT_DIR$/POM/TestBase/Functions.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/SignUp.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/subscriptions.txt" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_HomePage.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_ContactUs.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_LoginPage.py" />
+        <option value="$PROJECT_DIR$/POM/Data.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/FAQ.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_FAQ.py" />
+        <option value="$PROJECT_DIR$/POM/TestBase/EnvironmentSetUp.py" />
+        <option value="$PROJECT_DIR$/POM/TestBase/Links.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_AccountPage.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_SignUp.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/Yandex.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/TestRunner.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/Account.py" />
+        <option value="$PROJECT_DIR$/POM/Pages/HistoryRecording.py" />
+        <option value="$PROJECT_DIR$/POM/locators.py" />
+        <option value="$PROJECT_DIR$/POM/Scripts/Tests_HistoryRecording.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="954" />
+    <option name="y" value="-998" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POM" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POM" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POM" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
+              <item name="POM" type="462c0819:PsiDirectoryNode" />
+              <item name="TestBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/POM/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akoledachkin\PycharmProjects\SimpleProject\POM\Scripts" />
+      <recent name="C:\Users\akoledachkin\PycharmProjects\SimpleProject\POM\Pages" />
+      <recent name="C:\Users\Admin\PycharmProjects\SimpleProject\POM\Scripts" />
+      <recent name="C:\Users\Admin\PycharmProjects\SimpleProject" />
+      <recent name="C:\Users\Admin\PycharmProjects\SimpleProject\Scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akoledachkin\PycharmProjects\SimpleProject\POM\Scripts" />
+      <recent name="C:\Users\akoledachkin\PycharmProjects\SimpleProject\POM" />
+      <recent name="C:\Users\akoledachkin\PycharmProjects\SimpleProject\POM\Drivers" />
+      <recent name="C:\Users\akoledachkin\PycharmProjects\SimpleProject\POM\TestBase" />
+      <recent name="C:\Users\Admin\PycharmProjects\SimpleProject" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording">
+    <configuration name="Unittests for Tests_AccountPage.AccountPage.test_TollNumber" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SimpleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_AccountPage.AccountPage.test_TollNumber&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_FAQ.FAQ.test_TollNumber" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SimpleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_FAQ.FAQ.test_TollNumber&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SimpleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_HistoryRecording.HistoryRecording&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SimpleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_HistoryRecording.HistoryRecording.test_OpenRecording&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Tests_SignUp.SignUpPage.test_CorrectSignUp" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SimpleProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POM/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests_SignUp.SignUpPage.test_CorrectSignUp&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" />
+        <item itemvalue="Python tests.Unittests for Tests_HistoryRecording.HistoryRecording" />
+        <item itemvalue="Python tests.Unittests for Tests_SignUp.SignUpPage.test_CorrectSignUp" />
+        <item itemvalue="Python tests.Unittests for Tests_AccountPage.AccountPage.test_TollNumber" />
+        <item itemvalue="Python tests.Unittests for Tests_FAQ.FAQ.test_TollNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd07b112-320a-4ff6-a4dc-fdd6611a0bc9" name="Default Changelist" comment="" />
+      <created>1561925057123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561925057123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 16m 46s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 17m 29s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 18m 40s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording - 2019.08.21 at 15h 20m 53s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 23m 16s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 36m 30s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 37m 37s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 40m 30s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 41m 57s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Tests_HistoryRecording_HistoryRecording_test_OpenRecording - 2019.08.21 at 15h 42m 39s.xml">
+      <configuration name="Unittests for Tests_HistoryRecording.HistoryRecording.test_OpenRecording" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="991" y="-1052" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17860906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49420443" visible="true" weight="0.22651933" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49894625" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4947313" weight="0.15801105" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5057956" side_tool="true" weight="0.22651933" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17860906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49420443" visible="true" weight="0.22651933" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49894625" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4947313" weight="0.15801105" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5057956" side_tool="true" visible="true" weight="0.22651933" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Scripts/script_HomePage.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Scripts/___init__.py" />
+    <entry file="file://$PROJECT_DIR$/__ init __.py" />
+    <entry file="file://$PROJECT_DIR$/Scripts/__ init __.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/__ init __.py" />
+    <entry file="file://$PROJECT_DIR$/Scripts/script_ContactUs.py" />
+    <entry file="file://$PROJECT_DIR$/locators.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/ContactUs.py" />
+    <entry file="file://$PROJECT_DIR$/TestBase/EnvironmentSetUp.py" />
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/__ init __.py" />
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Functions.txt" />
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/scr.txt" />
+    <entry file="file://$PROJECT_DIR$/POM/TestSuit/TestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/POM/player.py" />
+    <entry file="file://H:/FCC_Python/Landing_page_14_tests.py" />
+    <entry file="file://$PROJECT_DIR$/POM/example.py" />
+    <entry file="file://$PROJECT_DIR$/POM/WRONG.py" />
+    <entry file="file://$PROJECT_DIR$/POM/Pages/Email.py" />
+    <entry file="file://$PROJECT_DIR$/POM/Pages/ContactUs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/debug.log" />
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/some.txt" />
+    <entry file="file://$PROJECT_DIR$/POM/Pages/HomePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="70" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Pages/SignUp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="40" column="70" selection-start-line="40" selection-start-column="70" selection-end-line="40" selection-end-column="70" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/subscriptions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_FAQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Pages/FAQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/TestBase/EnvironmentSetUp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_ContactUs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#35#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_HomePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="17" selection-start-line="146" selection-start-column="17" selection-end-line="146" selection-end-column="17" />
+          <folding>
+            <element signature="e#35#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/TestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Pages/Yandex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_SignUp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="122" column="41" selection-start-line="122" selection-start-column="41" selection-end-line="122" selection-end-column="41" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+            <marker date="1566387042081" expanded="true" signature="6321:6415" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/TestBase/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1565940108903" expanded="true" signature="1146:1392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_AccountPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="e#35#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Pages/Account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#35#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Pages/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="78" lean-forward="true" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
+          <folding>
+            <element signature="e#35#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/TestBase/Links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="59" column="57" lean-forward="true" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+          <folding>
+            <element signature="e#35#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Pages/HistoryRecording.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="170" column="62" selection-start-line="170" selection-start-column="62" selection-end-line="170" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POM/Scripts/Tests_HistoryRecording.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+          <folding>
+            <element signature="e#35#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

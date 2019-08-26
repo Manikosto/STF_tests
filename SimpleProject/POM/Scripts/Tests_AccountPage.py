@@ -22,7 +22,7 @@ from POM.TestBase.Links import Links
 from POM.Pages.Yandex import YandexLogin
 
 class AccountPage(EnvironmentSetup):
-
+ 
 ###   INIT   ###
 
     def INIT(self):

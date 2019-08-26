@@ -35,7 +35,7 @@ class AccountPage(EnvironmentSetup):
         self.data = Data()
         self.yandex = YandexLogin(driver)
 
-    @allure.feature("Account information")
+    
     @allure.suite("Account information")
     @allure.title("Information")
     @allure.description("checking info on Account info page")
